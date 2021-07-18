@@ -48,7 +48,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hot Mess PBS</h3>
 				</header>
-				<p>Hot Mess is a show about how climate change impacts all of us, and about how we can create a better future for our planet and ourselves.</p>
+				<p>Hot Mess is a show about how climate change impacts all of us, and about how we can create a better future for our planet and ourselves. The videos are hosted by me and my friends Talia Buford and Joe Hanson with special guest dropping in from time to time.</p>
 				<ul class="actions">
 					<li><a href="https://www.youtube.com/watch?v=mQpa_NYXUGI&list=PL6kVAvCBpGR3bvpyGnmAkWL1eVOamv56T&ab_channel=HotMess" class="button">watch Hot Mess</a></li>
 				</ul>
@@ -57,7 +57,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/verge-photo.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
