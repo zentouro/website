@@ -2,7 +2,7 @@
 layout: post
 title: research
 description: compound hydroclimate extremes
-image: assets/images/pic11.jpg
+image: assets/images/frozen-water-wide.png
 nav-menu: true
 ---
 
