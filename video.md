@@ -34,7 +34,7 @@ nav-menu: true
 					Climate change is complicated, but getting answers shouldn't be. On zentouro, we talk about climate change, the environment, and how what we do everyday impacts the entire world.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">watch my newest video</a></li>
+					<li><a href="https://www.youtube.com/watch?v=dT9-0mG_Ewk&list=UUAz17eZxF5tD7vNOEVgegKg&index=2" class="button">watch my newest video</a></li>
 				</ul>
 			</div>
 		</div>
@@ -81,7 +81,7 @@ nav-menu: true
 		</header>
 		<p>i enjoy partnering with non profits and enviornmental organizations to amplify their work</p>
 		<ul class="actions">
-			<li><a href="home.html/#two" class="button next">send me an email</a></li>
+			<li><a href="#two" class="button next">send me an email</a></li>
 		</ul>
 	</div>
 </section>
