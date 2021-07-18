@@ -66,7 +66,7 @@ nav-menu: true
 				</header>
 				<p>I used to work at The Verge as the Lead Science Video director</p>
 				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=0QY72R3ZDzw" class="button">here are some of my favorite videos</a></li>
+					<li><a href="https://www.youtube.com/watch?v=0QY72R3ZDzw&list=PL6kVAvCBpGR0Z0zXxfuLqRXBLmNr5Y3Ag" class="button">here are some of my favorite videos</a></li>
 				</ul>
 			</div>
 		</div>
