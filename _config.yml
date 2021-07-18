@@ -1,7 +1,7 @@
 # site settings
 title: miriam
 subtitle: nielsen
-email: zentouro@gmail.com
+email: mknkvqgb #replaced email with formspree code
 description: i'm a climate researcher & video journalist
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://zentouro.ldeo.columbia.edu/ # the base hostname & protocol for your site
