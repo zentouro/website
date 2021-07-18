@@ -1,8 +1,8 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+title: video
+layout: video
+description: 'climate change and activism'
+image: assets/images/climate-justice.jpg.jpg
 nav-menu: true
 ---
 
