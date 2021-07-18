@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post # so it doesn't show up on the main page
 title: Elements
 image: assets/images/pic01.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
