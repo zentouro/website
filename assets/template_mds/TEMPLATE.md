@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: TEMPLATE
+image: # assets/images/pic01.jpg
 nav-menu: false
 ---
 
