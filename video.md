@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/zentouro-logo.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +41,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/hot-mess-logo.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -81,7 +81,7 @@ nav-menu: true
 		</header>
 		<p>i enjoy partnering with non profits and enviornmental organizations to amplify their work</p>
 		<ul class="actions">
-			<li><a href="#two" class="button next">send me an email</a></li>
+			<li><a href="/#two" class="button next">send me an email</a></li>
 		</ul>
 	</div>
 </section>
