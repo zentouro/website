@@ -44,4 +44,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-- ELEMENTS.md # keeping around for updating pages later with the pre-designed formattng
+- TEMPLATE.md # keeping around for updating pages later with the pre-designed formattng
