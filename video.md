@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/zentouro-logo.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/zentouro-logo.png %}" alt="The logo for the zentouro YouTube channel: a glowing leaf with a lightning bolt shape inside." data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +41,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/hot-mess-logo.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/hot-mess-logo.png %}" alt="The logo of Hot Mess, a PBS Digital Show. Hot Mess is written in curvey font on a red, flame-like circle." data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,14 +57,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/verge-photo.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/verge-photo.jpg %}" alt="Miriam wears a virtual reality headset, one hand is in focus holding the device's vr remote toward the viewer. The lighting is pink and purple." data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Previously On</h3>
 				</header>
-				<p>I used to work at The Verge as the Lead Science Video director</p>
+				<p>I used to work at The Verge as the Lead Science Video director.</p>
 				<ul class="actions">
 					<li><a href="https://www.youtube.com/watch?v=0QY72R3ZDzw&list=PL6kVAvCBpGR0Z0zXxfuLqRXBLmNr5Y3Ag" class="button">here are some of my favorite videos</a></li>
 				</ul>
@@ -79,7 +79,7 @@ nav-menu: true
 		<header class="major">
 			<h2>want to work together?</h2>
 		</header>
-		<p>i enjoy partnering with non profits and enviornmental organizations to amplify their work</p>
+		<p>i enjoy partnering with non profits and enviornmental organizations to amplify their work.</p>
 		<ul class="actions">
 			<li><a href="/#two" class="button next">send me an email</a></li>
 		</ul>
