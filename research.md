@@ -17,8 +17,8 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Flash Floods</h3>
 		<p> Floods are one of the most dangerous and deadly natural hazards. But not all floods are the same. Flood research, forecasting and response often concentrates on large-scale river floods at the expense of faster and often deadlier flash flood events. I am leading a systematic review of flash flood risk and response as part of the NASA-GEO Global Flash Flood Impact team to better understand the global state of flash flood research.
-		<a href="https://geo.floods.global/" class="button">Learn more about the project</a>
 		</p>
+		<p> <a href="https://geo.floods.global/" class="button">Learn more about the project</a> </p>
 	</div>
 
 
