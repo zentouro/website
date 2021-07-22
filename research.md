@@ -14,7 +14,7 @@ DROUGHT TERMINATION | FLASH FLOOD
 
 
 <ul class="actions">
-	<li><a href="assets/assets/miv_CV.pdf" class="button special">or just read my CV</a></li>
+	<li><a href="assets/pdfs/miv_CV.pdf" class="button special">or just read my CV</a></li>
 	<!-- <li><a href="#" class="button">Default</a></li> --> 
 </ul>
 
