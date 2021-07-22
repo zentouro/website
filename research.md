@@ -16,13 +16,19 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Flash Floods</h3>
-		<p> TK TK TK TK TK </p>
-		<li><a href="https://geo.floods.global/" class="button">Learn more about the NASA-GEO Global Flood and Flash Flood Project</a></li>
+		<p> Floods are one of the most dangerous and deadly natural hazards. But not all floods are the same. Flood research, forecasting and response often concentrates on large-scale river floods at the expense of faster and often deadlier flash flood events. I am leading a systematic review of flash flood risk and response as part of the NASA-GEO Global Flash Flood Impact team to better understand the global state of flash flood research.
+		<a href="https://geo.floods.global/" class="button">Learn more about the project</a>
+		</p>
 	</div>
 
 
+<div class="6u$ 12u$(medium)">
 <ul class="actions">
 	<li><a href="assets/pdfs/miv_CV.pdf" class="button special">prefer lists? read my CV</a></li>
 	<!-- <li><a href="#" class="button">Default</a></li> --> 
 </ul>
+</div>
+
+
+<!-- TO DO: Add select publications --> 
 
