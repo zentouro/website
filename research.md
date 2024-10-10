@@ -34,7 +34,7 @@ nav-menu: true
 	<br> <br>
 [5] Lowrie, C., Kruczkiewicz, A., McClain, S. N., <b>Nielsen, M.</b>, & Mason, S. J. (2022). Evaluating the usefulness of VGI from Waze for the reporting of flash floods. <i> Scientific Reports </i>, 12(1), 5268. <a href = "https://doi.org/10.1038/s41598-022-08751-7">https://doi.org/10.1038/s41598-022-08751-7</a>
 	<br> <br>
-[4] Kruczkiewicz, A., Braun, M., McClain, S., Greatrex, H., Padilla, L., Hoffman‐Hernandez, L., ... <b> Nielsen, M. </b>, et al. (2021). Flood Risk and Monitoring Data for Preparedness and Response: From Availability to Use. <i>Global Drought and Flood: Observation, Modeling, and Prediction </i>, 289–306.
+[4] Kruczkiewicz, A., Braun, M., McClain, S., Greatrex, H., Padilla, L., Hoffman‐Hernandez, L., ... <b> Nielsen, M. </b>, et al. (2021). Flood Risk and Monitoring Data for Preparedness and Response: From Availability to Use. <i>Global Drought and Flood: Observation, Modeling, and Prediction </i>, 289–306. <a href = "https://doi.org/10.1002/9781119427339.ch16">https://doi.org/10.1002/9781119427339.ch16</a>
 	<br> <br>
 [3] Fischer, A. P., Callaghan, M., Berrang-Ford, L., <b>Nielsen, M.</b>, Sotnik, G., Canosa, I. V., et al. (2021). The global adaptation mapping initiative (GAMI): Part 2–Screening protocol. Available at Protocol Exchange <a href="https://doi.org/10.21203/rs.3.pex-1241/v1"> https://doi.org/10.21203/rs.3.pex-1241/v1</a>
 	<br> <br>
