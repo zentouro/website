@@ -23,6 +23,7 @@ nav-menu: true
 
 <div> 
 <h3> Publications </h3>
+<p>
 
 Wannewitz, M., Ajibade, I., Mach, K. J., Magnan, A., Petzold, J., Reckien, D., et al. (2024). Progress and gaps in climate change adaptation in coastal cities across the globe. Nature Cities, 1(9), 610–619. https://doi.org/10.1038/s44284-024-00106-9
 
@@ -40,6 +41,7 @@ Araos, M., Jagannathan, K., Shukla, R., Ajibade, I., Coughlan de Perez, E., Davi
 
 Berrang-Ford, L., Siders, A. R., Lesnikowski, A., Fischer, A. P., Callaghan, M. W., Haddaway, N. R., et al. (2021). A systematic global stocktake of evidence on human adaptation to climate change. Nature Climate Change, 11(11), 989–1000. https://doi.org/10.1038/s41558-021-01170-y
 
+</p>
 </div>
 
 <div class="6u$ 12u$(medium)">
