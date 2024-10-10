@@ -47,7 +47,7 @@ nav-menu: true
 
 <div class="6u$ 12u$(medium)">
 <ul class="actions">
-	<li><a href="assets/pdfs/mir_CV_long.pdf" class="button special">prefer pdfs? read my CV</a></li>
+	<li><a href="assets/pdfs/mir_CV.pdf" class="button special">prefer pdfs? read my CV</a></li>
 	<!-- <li><a href="#" class="button">Default</a></li> --> 
 </ul>
 </div>
