@@ -26,7 +26,7 @@ nav-menu: true
 <p>
 
 
-[8] Wannewitz, M., Ajibade, I., Mach, K. J., Magnan, A., Petzold, J., Reckien, D., et al. (2024). Progress and gaps in climate change adaptation in coastal cities across the globe. <i> Nature Cities </i>, 1(9), 610–619. <a href=https://doi.org/10.1038/s44284-024-00106-9> https://doi.org/10.1038/s44284-024-00106-9 </a>
+[8] Wannewitz, M., Ajibade, I., Mach, K. J., Magnan, A., Petzold, J., Reckien, D., et al. (2024). Progress and gaps in climate change adaptation in coastal cities across the globe. <i> Nature Cities </i>, 1(9), 610–619. [href=https://doi.org/10.1038/s44284-024-00106-9](href=https://doi.org/10.1038/s44284-024-00106-9)
 	<br> <br>
 [7] <b>Nielsen, M.</b>, Cook, B. I., Marvel, K., Ting, M., & Smerdon, J. E. (2024). The Changing Influence of Precipitation on Soil Moisture Drought With Warming in the Mediterranean and Western North America. <i> Earth’s Future </i>, 12(5), e2023EF003987. <a href=https://doi.org/10.1029/2023EF003987>https://doi.org/10.1029/2023EF003987</a>
 	<br> <br>
