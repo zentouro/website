@@ -36,7 +36,7 @@ nav-menu: true
 	<br> <br>
 [4] Kruczkiewicz, A., Braun, M., McClain, S., Greatrex, H., Padilla, L., Hoffman‐Hernandez, L., ... <b> Nielsen, M. </b>, et al. (2021). Flood Risk and Monitoring Data for Preparedness and Response: From Availability to Use. <i>Global Drought and Flood: Observation, Modeling, and Prediction </i>, 289–306.
 	<br> <br>
-[3] Fischer, A. P., Callaghan, M., Berrang-Ford, L., <b>Nielsen, M.</b>, Sotnik, G., Canosa, I. V., et al. (2021). The global adaptation mapping initiative (GAMI): Part 2–Screening protocol.
+[3] Fischer, A. P., Callaghan, M., Berrang-Ford, L., <b>Nielsen, M.</b>, Sotnik, G., Canosa, I. V., et al. (2021). The global adaptation mapping initiative (GAMI): Part 2–Screening protocol. Available at Protocol Exchange <a href="https://doi.org/10.21203/rs.3.pex-1241/v1"> https://doi.org/10.21203/rs.3.pex-1241/v1</a>
 	<br> <br>
 [2] Araos, M., Jagannathan, K., Shukla, R., Ajibade, I., Coughlan de Perez, E., Davis, K., ... <b> Nielsen, M. </b>, et al. (2021). Equity in human adaptation-related responses: A systematic global review. <i> One Earth </i>, 4(10), 1454–1467. <a href="https://doi.org/10.1016/j.oneear.2021.09.001"> https://doi.org/10.1016/j.oneear.2021.09.001</a>
 	<br> <br>
