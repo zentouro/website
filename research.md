@@ -26,21 +26,21 @@ nav-menu: true
 <p>
 
 
-[8] Wannewitz, M., Ajibade, I., Mach, K. J., Magnan, A., Petzold, J., Reckien, D., et al. (2024). Progress and gaps in climate change adaptation in coastal cities across the globe. <i> Nature Cities </i>, 1(9), 610–619. href=https://doi.org/10.1038/s44284-024-00106-9
+[8] Wannewitz, M., Ajibade, I., Mach, K. J., Magnan, A., Petzold, J., Reckien, D., ... <b> Nielsen, M. </b>, et al. (2024). Progress and gaps in climate change adaptation in coastal cities across the globe. <i> Nature Cities </i>, 1(9), 610–619. href=https://doi.org/10.1038/s44284-024-00106-9
 	<br> <br>
 [7] <b>Nielsen, M.</b>, Cook, B. I., Marvel, K., Ting, M., & Smerdon, J. E. (2024). The Changing Influence of Precipitation on Soil Moisture Drought With Warming in the Mediterranean and Western North America. <i> Earth’s Future </i>, 12(5), e2023EF003987. href=https://doi.org/10.1029/2023EF003987
 	<br> <br>
-[6] Singh, H., <b>Nielsen, M.</b>, & Greatrex, H. (2023). Causes, impacts, and mitigation strategies of urban pluvial floods in India: A systematic review. International Journal of Disaster Risk Reduction, 93, 103751. https://doi.org/10.1016/j.ijdrr.2023.103751
+[6] Singh, H., <b>Nielsen, M.</b>, & Greatrex, H. (2023). Causes, impacts, and mitigation strategies of urban pluvial floods in India: A systematic review. <i> International Journal of Disaster Risk Reduction</i>, 93, 103751. https://doi.org/10.1016/j.ijdrr.2023.103751
 	<br> <br>
-[5] Lowrie, C., Kruczkiewicz, A., McClain, S. N., <b>Nielsen, M.</b>, & Mason, S. J. (2022). Evaluating the usefulness of VGI from Waze for the reporting of flash floods. Scientific Reports, 12(1), 5268. https://doi.org/10.1038/s41598-022-08751-7
+[5] Lowrie, C., Kruczkiewicz, A., McClain, S. N., <b>Nielsen, M.</b>, & Mason, S. J. (2022). Evaluating the usefulness of VGI from Waze for the reporting of flash floods. <i> Scientific Reports </i>, 12(1), 5268. https://doi.org/10.1038/s41598-022-08751-7
 	<br> <br>
-[4] Kruczkiewicz, A., Braun, M., McClain, S., Greatrex, H., Padilla, L., Hoffman‐Hernandez, L., et al. (2021). Flood Risk and Monitoring Data for Preparedness and Response: From Availability to Use. Global Drought and Flood: Observation, Modeling, and Prediction, 289–306.
+[4] Kruczkiewicz, A., Braun, M., McClain, S., Greatrex, H., Padilla, L., Hoffman‐Hernandez, L., ... <b> Nielsen, M. </b>, et al. (2021). Flood Risk and Monitoring Data for Preparedness and Response: From Availability to Use. <i>Global Drought and Flood: Observation, Modeling, and Prediction </i>, 289–306.
 	<br> <br>
 [3] Fischer, A. P., Callaghan, M., Berrang-Ford, L., <b>Nielsen, M.</b>, Sotnik, G., Canosa, I. V., et al. (2021). The global adaptation mapping initiative (GAMI): Part 2–Screening protocol.
 	<br> <br>
-[2] Araos, M., Jagannathan, K., Shukla, R., Ajibade, I., Coughlan de Perez, E., Davis, K., et al. (2021). Equity in human adaptation-related responses: A systematic global review. One Earth, 4(10), 1454–1467. https://doi.org/10.1016/j.oneear.2021.09.001
+[2] Araos, M., Jagannathan, K., Shukla, R., Ajibade, I., Coughlan de Perez, E., Davis, K., ... <b> Nielsen, M. </b>, et al. (2021). Equity in human adaptation-related responses: A systematic global review. <i> One Earth </i>, 4(10), 1454–1467. https://doi.org/10.1016/j.oneear.2021.09.001
 	<br> <br>
-[1] Berrang-Ford, L., Siders, A. R., Lesnikowski, A., Fischer, A. P., Callaghan, M. W., Haddaway, N. R., et al. (2021). A systematic global stocktake of evidence on human adaptation to climate change. Nature Climate Change, 11(11), 989–1000. https://doi.org/10.1038/s41558-021-01170-y
+[1] Berrang-Ford, L., Siders, A. R., Lesnikowski, A., Fischer, A. P., Callaghan, M. W., Haddaway, N. R., ... <b> Nielsen, M. </b>, et al. (2021). A systematic global stocktake of evidence on human adaptation to climate change. <i> Nature Climate Change </i>, 11(11), 989–1000. https://doi.org/10.1038/s41558-021-01170-y
 
 </p>
 </div>
