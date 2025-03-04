@@ -30,10 +30,11 @@ socials:
   Twitter: # https://twitter.com/zentouro
   Facebook:
   Slack:
+  Bluesky: https://bsky.app/profile/zentouro.info
   YouTube: https://youtube.com/zentouro
+  ## these aren't showing up
   Orcid: https://orcid.org/0000-0003-0037-294X
   Google-Scholar: https://scholar.google.com/citations?user=pNhZXOEAAAAJ&hl=en
-  Bluesky: https://bsky.app/profile/zentouro.info
 
 # build settings
 markdown: kramdown
