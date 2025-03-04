@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>i like making things</h2>
 		</header>
-		<p>I am an environmental media maker. I talk about science, climate justice, and eco-activism on my <a href = "https://youtube.com/zentouro"> YouTube channel, zentouro </a>. I also wrote and co-hosted the PBS Digital Show, <a href = "https://youtube.com/HotMessPBS"> Hot Mess. </a></p>
+		<p>I am an environmental media maker. I talk about science, climate justice, and eco-activism on my <a href = "https://youtube.com/zentouro"> YouTube channel, zentouroˇ</a>. I also wrote and co-hosted the PBS Digital Show, <a href = "https://youtube.com/HotMessPBS"> Hot Mess. </a></p>
 	</div>
 </section>
 
