@@ -22,19 +22,19 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/zentouro
+  github: https://github.com/zentouro
   GitLab:
-  Google-Plus: https://orcid.org/0000-0003-0037-294X
-  Instagram: https://instagram.com/zentouro
+  Google-Plus: 
+  instagram: https://instagram.com/zentouro
   LinkedIn: 
   Twitter: # https://twitter.com/zentouro
   Facebook:
   Slack:
-  YouTube: https://youtube.com/zentouro
+  youtube: https://youtube.com/zentouro
   ## these aren't showing up
-  Bluesky: https://bsky.app/profile/zentouro.info
-  Orcid: https://orcid.org/0000-0003-0037-294X
-  Google-Scholar: https://scholar.google.com/citations?user=pNhZXOEAAAAJ&hl=en
+  bluesky: https://bsky.app/profile/zentouro.info
+  orcid: https://orcid.org/0000-0003-0037-294X
+  google-scholar: https://scholar.google.com/citations?user=pNhZXOEAAAAJ&hl=en
 
 # build settings
 markdown: kramdown
