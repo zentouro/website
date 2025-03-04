@@ -8,7 +8,7 @@ nav-menu: true
 
 
 <!-- Content -->
-<p>I study compound hydrological extremes as a PhD student in Earth and Environmental Sciences at Columbia University. I'm interested in how severe hazards will change under warming and the vulnerability of people and ecosystems to these changes. </p>
+<p>I study compound hydrological extremes as a PhD student in Earth and Environmental Sciences at Columbia University and NASA Goddard Institute for Space Studies. I'm interested in how severe hazards will change under warming and the vulnerability of people and ecosystems to these changes. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Drought Termination</h3>
@@ -22,7 +22,7 @@ nav-menu: true
 	</div>
 
 <div> 
-<h3> Publications </h3>
+<h3> Select Publications </h3>
 <p>
 
 

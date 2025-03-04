@@ -1,7 +1,7 @@
 ---
 title: video
 layout: page #landing
-description: 'climate change and activism'
+description: 'climate change and advocacy'
 image: assets/images/climate-justice.jpg
 nav-menu: true
 ---
