@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Study Hall: Sustainability</h3>
 				</header>
-				<p>I'm the host of Study Hall: Intro to Susatinability. This 31-episode series of lessons covers all things sustainability, from tourism to fisheries, climate change to urbanization. If you're interested in taking the full course for college credit from Arizona State University, check out <a href="https://gostudyhall.com/courses/introduction-to-sustainability-sos-100/" gostudyhall.com.</a></p>
+				<p>I'm the host of Study Hall: Intro to Susatinability. This 31-episode series of lessons covers all things sustainability, from tourism to fisheries, climate change to urbanization. If you're interested in taking the full course for college credit from Arizona State University, check out <a href="https://gostudyhall.com/courses/introduction-to-sustainability-sos-100/"> gostudyhall.com.</a></p>
 				<ul class="actions">
 					<li><a href="https://www.youtube.com/watch?v=7eiiMrj6VYU&list=PLID58IQe16nHaihk2KksEyKby91-KIWRF" class="button">watch Study Hall: Sustainability</a></li>
 				</ul>
