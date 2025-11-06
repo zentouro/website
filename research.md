@@ -8,7 +8,7 @@ nav-menu: true
 
 
 <!-- Content -->
-<p>I study compound hydrological extremes as a PhD student in Earth and Environmental Sciences at Columbia University and NASA Goddard Institute for Space Studies. I'm interested in how severe hazards will change under warming and the vulnerability of people and ecosystems to these changes. </p>
+<p> I recently completed a PhD in Earth and Environmental Sciences at Columbia University and NASA Goddard Institute for Space Studies. My dissertation explored the intractions between soil moisture, precipitation, and compound hydrological extremes. Now, I'm working to improve a tropical cyclone risk model as a Postdoctoral Research Scientist at Lamont-Doherty Earth Observatory. I'm interested in how severe hazards will change under warming and the vulnerability of people and ecosystems to these changes. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Drought Termination</h3>

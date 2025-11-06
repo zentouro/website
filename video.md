@@ -96,7 +96,7 @@ nav-menu: true
 		<header class="major">
 			<h2>want to work together?</h2>
 		</header>
-		<p>i enjoy partnering with non profits and enviornmental organizations to amplify their work.</p>
+		<p>I enjoy partnering with non profits and enviornmental organizations to amplify their work.</p>
 		<ul class="actions">
 			<li><a href="/#two" class="button next">send me an email</a></li>
 		</ul>
